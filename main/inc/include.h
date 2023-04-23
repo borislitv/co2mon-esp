@@ -9,4 +9,4 @@
 
 #include "../config/hardware.h"
 #include "../config/software.h"
-#include "../legacy/mt8057_fsm.h"
+#include "../mt8057_fsm.h"

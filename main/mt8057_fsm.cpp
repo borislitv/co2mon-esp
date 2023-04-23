@@ -54,6 +54,5 @@ mt8057_message* mt8057_process(unsigned long ms, bool data) {
       return msg;
     }
   }
-
   return nullptr;
 }
